@@ -1,18 +1,46 @@
-This repository includes eCommerce Company Marketing Insights.
+**_eCommerce Company Marketing Insights_**
 
-Business Context:
-One of the leading E-Commerce Company would like to get marketing insights from the data to define marketing strategies going forward. Also, expecting to build an analytical dashboard to monitor various KPI’s & business metrics.
+Overview
 
-Available Data:
+This repository contains a detailed analysis aimed at deriving marketing insights for a leading eCommerce company. The project focuses on leveraging data to enhance marketing strategies and track business performance through an analytical dashboard.
 
-Transaction data has been provided for the period of 1st Jan 2019 to 31st Dec 2019. The below data sets have been provided.
+Business Context
 
-Online_Sales.csv: This file contains actual orders data (point of Sales data) at transaction level
+The objective is to analyze historical data and provide insights to:
 
-Customers_Data.csv: This file contains customer’s demographics.
+- Define effective marketing strategies.
+- Monitor the performance of marketing campaigns.
+- Understand customer demographics and purchasing behavior.
+- Optimize revenue generation and marketing spend allocation.
 
-Discount_Coupon.csv: Discount coupons have been given for different categories in different months
+Available Data
+The dataset spans the period from January 1, 2019, to December 31, 2019, and includes the following files:
 
-Marketing_Spend.csv: Marketing spend on both offline & online channels on day wise.
+Online Sales Data
 
-Tax_Amount.csv: GST Details for given category
+**File Name**: Online_Sales.csv
+**Details**: Contains transaction-level sales data, representing orders and point-of-sale details.
+Customer Demographics
+
+**File Name**: Customers_Data.csv
+**Details**: Demographic information about customers, supporting segmentation and targeting.
+Discount and Coupon Usage
+
+**File Name**: Discount_Coupon.csv
+**Details**: Tracks discount coupons issued across various categories and timeframes.
+Marketing Spend Data
+
+**File Name**: Marketing_Spend.csv
+**Details**: Daily marketing expenditures split across online and offline channels.
+Tax Information
+
+**File Name**: Tax_Amount.csv
+**Details**: GST tax details categorized by product type.
+
+
+Objectives
+The main goals of the analysis are to:
+
+Extract actionable insights from transactional and marketing data.
+Build an analytical dashboard to visualize key performance indicators (KPIs).
+Support strategic decision-making by evaluating marketing effectiveness.
