@@ -13,6 +13,10 @@ The objective is to analyze historical data and provide insights to:
 - Understand customer demographics and purchasing behavior.
 - Optimize revenue generation and marketing spend allocation.
 
+PowerBI Dashboard:
+![image](https://github.com/user-attachments/assets/c07d4fca-24f0-4053-95bc-84c3f65de8e8)
+
+
 Available Data
 The dataset spans the period from January 1, 2019, to December 31, 2019, and includes the following files:
 
